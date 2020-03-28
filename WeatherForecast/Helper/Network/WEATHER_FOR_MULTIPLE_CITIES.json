@@ -1,0 +1,122 @@
+{
+  "list": [
+    {
+      "wind": {
+        "speed": 2.1000000000000001,
+        "deg": 100
+      },
+      "clouds": {
+        "all": 41
+      },
+      "dt": 1585368543,
+      "coord": {
+        "lon": 55.299999999999997,
+        "lat": 25.260000000000002
+      },
+      "id": 292223,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "icon": "03d",
+          "description": "scattered clouds"
+        }
+      ],
+      "main": {
+        "temp_max": 25.559999999999999,
+        "humidity": 57,
+        "feels_like": 23.170000000000002,
+        "temp_min": 21,
+        "temp": 23.280000000000001,
+        "pressure": 1013
+      },
+      "sys": {
+        "timezone": 14400,
+        "country": "AE",
+        "sunset": 1585405994,
+        "sunrise": 1585361648
+      },
+      "name": "Dubai",
+      "visibility": 10000
+    },
+    {
+      "wind": {
+        "speed": 3.1000000000000001,
+        "deg": 60
+      },
+      "clouds": {
+        "all": 41
+      },
+      "dt": 1585368543,
+      "coord": {
+        "lon": 55.399999999999999,
+        "lat": 25.359999999999999
+      },
+      "id": 292672,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "icon": "03d",
+          "description": "scattered clouds"
+        }
+      ],
+      "main": {
+        "temp_max": 25.559999999999999,
+        "humidity": 52,
+        "feels_like": 21.82,
+        "temp_min": 21,
+        "temp": 23.140000000000001,
+        "pressure": 1013
+      },
+      "sys": {
+        "timezone": 14400,
+        "country": "AE",
+        "sunset": 1585405972,
+        "sunrise": 1585361622
+      },
+      "name": "Sharjah",
+      "visibility": 10000
+    },
+    {
+      "wind": {
+        "speed": 2.1000000000000001,
+        "deg": 200
+      },
+      "clouds": {
+        "all": 40
+      },
+      "dt": 1585368555,
+      "coord": {
+        "lon": 80.280000000000001,
+        "lat": 13.09
+      },
+      "id": 1264527,
+      "weather": [
+        {
+          "id": 721,
+          "main": "Haze",
+          "icon": "50d",
+          "description": "haze"
+        }
+      ],
+      "main": {
+        "temp_max": 29,
+        "humidity": 66,
+        "feels_like": 32.149999999999999,
+        "temp_min": 28.890000000000001,
+        "temp": 28.949999999999999,
+        "pressure": 1014
+      },
+      "sys": {
+        "timezone": 19800,
+        "country": "IN",
+        "sunset": 1585399804,
+        "sunrise": 1585355850
+      },
+      "name": "Chennai",
+      "visibility": 4000
+    }
+  ],
+  "cnt": 3
+}
